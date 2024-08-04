@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yul-m6&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
   
-   <img src="https://github-readme-stats.vercel.app/api?username=yul-m6" width="49.2%" /> 
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=yul-m6" width="49.2%" /> -->
 </a>
 
 <!-- 
@@ -64,7 +64,7 @@ profile-3d-contrib/profile-gitblock.svg
 -->
 <div align="left">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yul-m6&theme=flat&column=7)](https://github.com/yul-m6/)
 
 ---
 
