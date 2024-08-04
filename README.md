@@ -10,16 +10,16 @@
 <br />
 <br />
 
-<a href="https://opgc.me/#/users/dkssud8150" target="_blank"><img src="https://api.opgc.me/githubs/users/dkssud8150/tag/?theme=prism" />
+<a href="https://opgc.me/#/users/yul-m6" target="_blank"><img src="https://api.opgc.me/githubs/users/yul-m6/tag/?theme=prism" />
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkssud8150)](https://solved.ac/dkssud8150)
 <!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dkssud8150&theme=white) -->
 </a>
   
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yul-m6&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
   
-  <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/yul-m6/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
 
 <!-- 
