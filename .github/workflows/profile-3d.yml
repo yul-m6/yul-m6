@@ -11,13 +11,13 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yul-m6/github-profile-3d-contrib@0.6.0
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.main_commit_model }}
-          USERNAME: yul-m6
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
+          git config user.name yul-m6
           git config user.email ywsohms7745@gmail.com
           git add -A .
           git commit -m "generated"
